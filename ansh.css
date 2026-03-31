@@ -1,0 +1,20 @@
+main3{
+            /* width: 1450px; */
+            margin-left: 250px;
+        }
+        .reviews3{
+            display: flex;
+            gap: 40px;
+            margin-top: 100px;
+
+        }
+        .credits3{
+            margin-top: 40px;
+            display: flex;
+            gap: 60px;
+        }
+        .foot3{
+            margin-top: 40px;
+            display: flex;
+            gap: 90px;
+        }
