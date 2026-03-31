@@ -1,0 +1,79 @@
+*{
+    background-color: black;
+    color: white;
+    
+}
+.parent2{
+    height:900px;
+    width:1000px;
+    border:2px solid black;
+    /* background-color: black; */
+    /* color: white; */
+    margin: auto;
+    margin-left:200px;
+}
+.line2{
+    display: flex;
+    gap:20px;
+}
+#image2{
+    height:auto;
+    width:700px;
+}
+.chota2{
+font-size:13px;
+margin-top: -10px;
+color: grey;
+}
+.upper2{
+    margin-top: -20px;
+    color: grey;
+}
+.dabbaline2{
+    display: flex;
+    gap:30px;
+}
+.dabba2{
+    border:2px solid rgb(103, 101, 101);
+    width:270px;
+    height:400px;
+}
+#hi{
+    background-color: orangered;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#image22{
+    height:30px;
+    width:50px;
+    margin-top:10px;
+}
+.medium2{
+    background-color: blueviolet;
+    height:60px;
+    /* margin-left: 20px; */
+}
+.upperj2{
+    margin-top: -12px;
+}
+h5{
+    margin-top:40px;
+}
+.details2{
+    width:250px;
+    height:40px;
+    background-color:orangered;
+    margin-top: -10px;
+    margin-left:10px ;
+    border-radius: 10px;
+}
+.medium22{
+    height:60px;
+    background-color: rgb(50, 134, 218);
+}
+.medium222{
+    background-color: rgb(7, 176, 7);
+}
+.lower22{
+    margin-top:-40px
+}
